@@ -1,1 +1,4 @@
 
+Problem statement
+A vending machine has a finite number of states where at one point the machine is in one particular state. 
+Progression to the next state happens once the input has been accepted by the machine but at this point the number of states it has hasn't been validated yet. 
